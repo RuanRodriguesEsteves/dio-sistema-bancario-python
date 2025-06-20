@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela [Digital In
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.13.5
 
 ## 🚀 Como Executar
 
