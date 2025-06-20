@@ -27,4 +27,4 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela [Digital In
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/dio-sistema-bancario-python.git
+   git clone https://github.com/RuanRodriguesEsteves/dio-sistema-bancario-python.git
